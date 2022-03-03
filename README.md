@@ -1,0 +1,1 @@
+# m2-remove-cookie-warning
